@@ -1,0 +1,16 @@
+[11-Dec-2018 23:30:37 UTC] PHP Warning:  Use of undefined constant fire - assumed 'fire' (this will throw an Error in a future version of PHP) in /app/public/test.php on line 3
+[12-Dec-2018 00:06:22 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /app/public/wp-content/themes/fictional-university-theme/index.php on line 3
+[12-Dec-2018 00:06:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /app/public/wp-content/themes/fictional-university-theme/index.php on line 3
+[12-Dec-2018 02:36:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=11205 in /app/public/wp-includes/wp-db.php on line 1924
+[13-Dec-2018 04:34:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /app/public/index.php on line 1
+[13-Dec-2018 04:34:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /app/public/index.php on line 1
+[13-Dec-2018 04:34:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /app/public/index.php on line 1
